@@ -10,9 +10,26 @@
   "hair": "None",
   "facialHair": "None",
   "tattoos": "None",
-  "piercings": "Scale Ring - passed down from my father",
-  "spellcasting Focus": "Ring from father",
+  "piercings": "None",
+  "spellcastingFocus": "Bloodwell Vial +1",
   "weaponOfChoice": "Quarterstaff",
-  "greatestFear": "Sheep",
-  "backStory": "During my younger years (starting at 15), I was very interested in books. While studying at the Texts Ad Infinium, I came across a few books that mentioned rumors of a secret magical school called [redacted]."
+  "greatestFear": "Sheep - It's not crippling but I do everything I can to avoid them. ",
+  "backStory": [
+    "Growing up, I had a unique connection to magic that I couldn't quite explain. From very young, strange things would happen to me. Once, I openned a door and when I went through, it put me back in the same room I just left. The first few times things like this happened, I chocked it up to confusion and moved on but when some more obvious things happened, I began to understand that I had a strange connection to magic that I could only dream of understanding. As I grew older, I started to gain more control over this connection. It was like I was developing a relationship with it. Magic eventually became so natural to me, like it was a part of me.",
+    "Around 15 years old, I became very interested in books. I thought about the great Wizeards of the area and all of the studying that they'd do and I thought that would be the key to understanding more about magic and would make me stronger. Little did I know, it was doing the exact opposite.",
+    "During my studies, I began to learn new spells but it was becoming increasingly more difficult to do them. Even the ones that I'd been casting for years started behaving different. This was incredibly frustrating to me so I delved deeper into the books hoping that they would be the cure to what was going on with me. I spent nearly every day at the [Texts Ad Infinium] going over every text that I could find on spells. I was focusing on new spells but was getting nowhere with them. This became my crutch.",
+    "After about a year of this, I began to give up and decided that magic might not be my calling. I began drifting toward different kinds of books, still with a focus on magic. Magic was all I really studied this point. After I stopped studying spells, my magical abilities starting coming back. I unconciously began using my magic as a part of my everyday life again. It was so natural that I didn't notice it at all.",
+    "While studying at the [Texts Ad Infinium], I came across a few books that mentioned rumors of a secret magical school called [redacted]. After that, I "
+  ],
+  "feats": [
+    "Gift of the Gem Dragon (Fun! Also, keeps you alive / +1 to a stat)"
+  ],
+  "desiredFeats": [
+    "Elemental Adept - Fire (Ignore Fire Resistance)",
+    "Eldritch Adept - Armor of Shadows (Cast Mage Armor on Self At Will)",
+    "Metamagic Adept (2 Sorcery Points ONLY spent on Metamagic / 2 Metamagic options)",
+    "Fey Touched - +1 to Mental Stat / Misty Step + 1 other spell (Tasha's Hideous Laughter)",
+    "Shadow Touched - +1 to Mental Stat / Misty Step + 1 other spell (False Life??)",
+    "War Caster - Advantage on Concentration Saving Throws"
+  ]
 }
