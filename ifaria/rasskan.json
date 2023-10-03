@@ -26,10 +26,10 @@
     "I was assigned a mentor as was everyone else. He was a Gem Dragon named Draagar. After spending some time training me, he thought that I needed some extra protection. He gifted me with a small power of a Gem Dragon. This proved useful when jumping into combat. It came in handy a few times throughout my training when I bit off a little more than I could chew."
   ],
   "feats": {
-    "Gift of the Gem Dragon": "Fun! Also, keeps you alive / +1 to a stat"
+    "Gift of the Gem Dragon": "Fun! Also, keeps you alive / +1 to a stat",
+    "Elemental Adept": "Fire (Ignore Fire Resistance)"
   },
   "desiredFeats": {
-    "Elemental Adept": "Fire (Ignore Fire Resistance)",
     "Eldritch Adept": "Armor of Shadows (Cast Mage Armor on Self At Will)",
     "Metamagic Adept": "(2 Sorcery Points ONLY spent on Metamagic / 2 Metamagic options)",
     "Fey Touched": "+1 to Mental Stat / Misty Step + 1 other spell (Tasha's Hideous Laughter)",
